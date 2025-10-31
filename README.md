@@ -1,2 +1,6 @@
-# DreamLight-Shaders
-A good-performing, dreamy, stylized shader pack with colored lighting and fancy visuals.
+DreamLight Shader
+
+A warm, dreamy visual experience for Minecraft.
+
+DreamLight Shader focuses on soft tones, balanced lighting, and smooth performance — perfect for cozy, atmospheric worlds.
+It enhances sunlight, skies, and reflections while keeping the look natural and soothing.
